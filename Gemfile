@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+*!frozen_string_literal: true
 
 source "https://rubygems.org"
 
@@ -21,3 +21,4 @@ group :development do
   gem "uglifier"
   gem "yui-compressor"
 end
+ 
